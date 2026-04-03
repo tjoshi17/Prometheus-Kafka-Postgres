@@ -34,3 +34,5 @@ python processor\kafka_to_postgres.py
 SELECT * FROM node_metrics LIMIT 10;
 
 =================================================================
+
+test
